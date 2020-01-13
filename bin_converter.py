@@ -36,16 +36,6 @@ val = val % 128
 #store concatenation of all digits into a string output variable
 #report output variable
 
-
-
-
-
-
-
-
-
-
-
 #declare ariables to store place values for 8 bits and initialize to zero
 a = 0 #ones;
 b = 0 #twos
